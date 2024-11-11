@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/kumarDivyanshu/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kumarDivyanshu/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kumarDivyanshu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2716-prime-subtraction-operation](https://github.com/kumarDivyanshu/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0179-largest-number) |
+| [2716-prime-subtraction-operation](https://github.com/kumarDivyanshu/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kumarDivyanshu/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Math
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/kumarDivyanshu/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Binary Search
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/kumarDivyanshu/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/kumarDivyanshu/LeetCode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
