@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kumarDivyanshu/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kumarDivyanshu/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2716-prime-subtraction-operation](https://github.com/kumarDivyanshu/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2868-continuous-subarrays](https://github.com/kumarDivyanshu/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0567-permutation-in-string) |
+| [2868-continuous-subarrays](https://github.com/kumarDivyanshu/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -147,8 +149,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/kumarDivyanshu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kumarDivyanshu/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kumarDivyanshu/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/kumarDivyanshu/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kumarDivyanshu/LeetCode/tree/master/0046-permutations) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/kumarDivyanshu/LeetCode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/kumarDivyanshu/LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/kumarDivyanshu/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
