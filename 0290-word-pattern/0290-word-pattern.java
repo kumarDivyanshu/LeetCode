@@ -16,11 +16,18 @@ class Solution {
             if (map.containsKey(c)) {
                 if (!map.get(c).equals(w)) {
                     return false;}
-            } else {
-                if (seenWords.contains(w)) {
-                    return false;}
+            } 
+            else 
+            {
+                if (seenWords.contains(w)) 
+                {
+                    return false;
+                }
                 map.put(c, w);
-                seenWords.add(w);}}
+                seenWords.add(w);
+            }
+        }
         
         return true;
-}}
+    }
+}
