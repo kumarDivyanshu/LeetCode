@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/kumarDivyanshu/LeetCode/tree/master/0290-word-pattern) |
 | [0567-permutation-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kumarDivyanshu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/kumarDivyanshu/LeetCode/tree/master/0290-word-pattern) |
 | [0567-permutation-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kumarDivyanshu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kumarDivyanshu/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
