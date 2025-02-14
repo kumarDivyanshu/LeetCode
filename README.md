@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/kumarDivyanshu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumarDivyanshu/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kumarDivyanshu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kumarDivyanshu/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kumarDivyanshu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/kumarDivyanshu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kumarDivyanshu/LeetCode/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0263-ugly-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kumarDivyanshu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/kumarDivyanshu/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
 |  |
@@ -243,4 +245,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/kumarDivyanshu/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kumarDivyanshu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kumarDivyanshu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kumarDivyanshu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
