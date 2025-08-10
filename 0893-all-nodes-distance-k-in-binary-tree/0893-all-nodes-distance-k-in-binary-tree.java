@@ -23,6 +23,10 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         if (root == null)
             return ans;
+
+//HERE IN THIS QUESTION THE TARGET NODE IS ALREADY GIVEN SO NODE NEED TO CALL "findNode"
+//WE CAN CALL THIS FINDNODE FUNCTION WHEN ONLY THE VALUE OF NODE WILL BE GIVEN
+//I WROTE THAT FUNCTION ALSO JUST FOR MY PRACTICE;
         TreeNode targetNode = findNode(root, target);
         if (targetNode == null)
             return ans;
