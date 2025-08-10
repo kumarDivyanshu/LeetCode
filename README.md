@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/kumarDivyanshu/LeetCode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0567-permutation-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kumarDivyanshu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/kumarDivyanshu/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kumarDivyanshu/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -319,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kumarDivyanshu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
