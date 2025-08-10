@@ -31,9 +31,9 @@ class Solution {
         if(preStart > preEnd || inStart > inEnd) return null;
         int inIndex = map.get(preorder[preStart]);
         TreeNode root = new TreeNode(inorder[inIndex]);
-        int index = inIndex - inStart;
-        root.left = buildTree(preorder , preStart+1 , preStart + index , inorder , inStart, inIndex-1, map);
-        root.right = buildTree(preorder , preStart + index +1 , preEnd , inorder , inIndex + 1, inEnd, map );
+        int leftNumbers = inIndex - inStart;
+        root.left = buildTree(preorder , preStart+1 , preStart + leftNumbers , inorder , inStart, inIndex-1, map);
+        root.right = buildTree(preorder , preStart + leftNumbers +1 , preEnd , inorder , inIndex + 1, inEnd, map );
         return root;
     }
 }
