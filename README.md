@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kumarDivyanshu/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumarDivyanshu/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/kumarDivyanshu/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/kumarDivyanshu/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumarDivyanshu/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kumarDivyanshu/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kumarDivyanshu/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/kumarDivyanshu/LeetCode/tree/master/3447-clear-digits) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kumarDivyanshu/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kumarDivyanshu/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Math
 |  |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumarDivyanshu/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kumarDivyanshu/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
@@ -369,4 +374,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kumarDivyanshu/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
