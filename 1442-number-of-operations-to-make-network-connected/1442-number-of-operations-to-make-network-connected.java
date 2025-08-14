@@ -73,8 +73,10 @@ class Solution {
             if(ds.findUltParent(u) == ds.findUltParent(v)){
                 extra++;
             }
+            else{
+               ds.unionByRank(u,v);
 
-            ds.unionByRank(u,v);
+            }
         }
         int count=0;
         for(int i=0;i<n;i++){
