@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kumarDivyanshu/LeetCode/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/kumarDivyanshu/LeetCode/tree/master/0046-permutations) |
+| [0064-minimum-path-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kumarDivyanshu/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0854-making-a-large-island](https://github.com/kumarDivyanshu/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/kumarDivyanshu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/kumarDivyanshu/LeetCode/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kumarDivyanshu/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
