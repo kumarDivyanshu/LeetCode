@@ -416,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/kumarDivyanshu/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kumarDivyanshu/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
