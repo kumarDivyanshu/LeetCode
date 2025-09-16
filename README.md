@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/kumarDivyanshu/LeetCode/tree/master/0072-edit-distance) |
+| [0151-reverse-words-in-a-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/kumarDivyanshu/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kumarDivyanshu/LeetCode/tree/master/0016-3sum-closest) |
+| [0151-reverse-words-in-a-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumarDivyanshu/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kumarDivyanshu/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
