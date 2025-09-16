@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/kumarDivyanshu/LeetCode/tree/master/0721-accounts-merge) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kumarDivyanshu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1078-remove-outermost-parentheses](https://github.com/kumarDivyanshu/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/kumarDivyanshu/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/kumarDivyanshu/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kumarDivyanshu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumarDivyanshu/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/kumarDivyanshu/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kumarDivyanshu/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kumarDivyanshu/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/kumarDivyanshu/LeetCode/tree/master/3447-clear-digits) |
