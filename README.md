@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kumarDivyanshu/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0721-accounts-merge](https://github.com/kumarDivyanshu/LeetCode/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumarDivyanshu/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0792-binary-search](https://github.com/kumarDivyanshu/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/kumarDivyanshu/LeetCode/tree/master/0854-making-a-large-island) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/kumarDivyanshu/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/kumarDivyanshu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/kumarDivyanshu/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumarDivyanshu/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kumarDivyanshu/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/kumarDivyanshu/LeetCode/tree/master/2716-prime-subtraction-operation) |
