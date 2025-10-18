@@ -1,36 +1,34 @@
 class FooBar {
+    // idea from chat gpt
     private int n;
-    AtomicBoolean flag = new AtomicBoolean(false);
+    // Start with foo allowed ( 1 permit), bar blocked (0 permits)
+    private final Semaphore fooPermit;
+    private final Semaphore barPermit;
+
 
     public FooBar(int n) {
         this.n = n;
+        this.fooPermit = new Semaphore(1);
+        this.barPermit = new Semaphore(0);
     }
 
     public void foo(Runnable printFoo) throws InterruptedException {
         
-        
         for (int i = 0; i < n; i++) {
-            
-            while(flag.get()){
-                // this.wait();
-            }
+            this.fooPermit.acquire(); // wait until it's foo's trun
         	// printFoo.run() outputs "foo". Do not change or remove this line.
         	printFoo.run();
-            flag.set(true);
-            // this.notifyAll();
+            barPermit.release(); // hand off turn to bar
         }
     }
 
     public void bar(Runnable printBar) throws InterruptedException {
         
         for (int i = 0; i < n; i++) {
-            while(!flag.get()){
-                // this.wait();
-            }
+            this.barPermit.acquire(); // wait until it's bar's trun
             // printBar.run() outputs "bar". Do not change or remove this line.
         	printBar.run();
-            flag.set(false);
-            // this.notifyAll();
+            this.fooPermit.release();
         }
     }
 }
