@@ -15,11 +15,9 @@ class ZeroEvenOdd {
             if(i%2==0){
                 eve.release();
             }
-            else if(1%2 != 0){
+            else{
                 od.release();
             }
-
-            
         }
     }
 
