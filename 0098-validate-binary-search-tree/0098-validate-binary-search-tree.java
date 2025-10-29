@@ -17,7 +17,17 @@ class Solution {
     public boolean isValidBST(TreeNode root) {
         boolean ans = solve(root, Long.MIN_VALUE, Long.MAX_VALUE);
 
-        return ans;
+        List<Integer> arr= new ArrayList<>();
+        inorder(root,arr);
+        System.out.println(arr);
+        
+        for(int i=0;i<arr.size()-1 ;i++){
+            if(arr.get(i)>=arr.get(i+1)){
+                return false;
+            }
+        }
+        return true;
+        // return ans;
     }
 
     // public boolean solve(TreeNode root , long min , long max){
@@ -40,5 +50,13 @@ class Solution {
         boolean right = solve(root.right , root.val , max);
 
         return (left && right);
+    }
+
+    void inorder(TreeNode root , List<Integer> arr)
+    {
+        if(root == null) return;
+        inorder(root.left, arr);
+        arr.add(root.val);
+        inorder(root.right,arr);
     }
 }
