@@ -1,55 +1,43 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
-        if (root == null) {
-            return null;
-        }
+        if (root == null) return null;
 
-        // Case 1: root itself is the node to delete
-        if (root.val == key) {
-            return helper(root);
-        }
-
-        TreeNode dummy = root;
-
-        // Iterative traversal to find parent of the node to delete
-        while (root != null) {
-            if (root.val > key) {
-                if (root.left != null && root.left.val == key) {
-                    root.left = helper(root.left);
-                    break;
-                } else {
-                    root = root.left;
-                }
-            } else {
-                if (root.right != null && root.right.val == key) {
-                    root.right = helper(root.right);
-                    break;
-                } else {
-                    root = root.right;
-                }
-            }
-        }
-
-        return dummy;
-    }
-
-    private TreeNode helper(TreeNode root) {
-        if (root.left == null) {
-            return root.right;
-        } else if (root.right == null) {
-            return root.left;
+        if (key < root.val) {
+            root.left = deleteNode(root.left, key);
+        } else if (key > root.val) {
+            root.right = deleteNode(root.right, key);
         } else {
-            TreeNode rightChild = root.right;
-            TreeNode lastRight = findLastRight(root.left);
-            lastRight.right = rightChild;
-            return root.left;
+            // Node found
+            if (root.left == null) return root.right;
+            if (root.right == null) return root.left;
+
+            // Both children exist
+            TreeNode maxLeft = findMax(root.left);
+            root.val = maxLeft.val; // replace value
+            root.left = deleteNode(root.left, maxLeft.val); // delete duplicate
         }
+        return root;
     }
 
-    private TreeNode findLastRight(TreeNode root) {
-        if (root.right == null) {
-            return root;
+    private TreeNode findMax(TreeNode node) {
+        while (node.right != null) {
+            node = node.right;
         }
-        return findLastRight(root.right);
+        return node;
     }
 }
