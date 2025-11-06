@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kumarDivyanshu/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/kumarDivyanshu/LeetCode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/kumarDivyanshu/LeetCode/tree/master/0412-fizz-buzz) |
 | [1448-maximum-69-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/1448-maximum-69-number) |
@@ -504,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-print-in-order](https://github.com/kumarDivyanshu/LeetCode/tree/master/1203-print-in-order) |
 | [1216-print-zero-even-odd](https://github.com/kumarDivyanshu/LeetCode/tree/master/1216-print-zero-even-odd) |
 | [1316-fizz-buzz-multithreaded](https://github.com/kumarDivyanshu/LeetCode/tree/master/1316-fizz-buzz-multithreaded) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kumarDivyanshu/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
