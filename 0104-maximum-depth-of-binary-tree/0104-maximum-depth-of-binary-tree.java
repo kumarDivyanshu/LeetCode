@@ -14,13 +14,26 @@
  * }
  */
 class Solution {
+    int height=-1;
     public int maxDepth(TreeNode root) {
-        if(root == null)
-        {
-            return 0;
+        if(root == null) return 0;
+        helper(root, 1);
+        return height;
+    }
+
+    void helper(TreeNode root , int level){
+        height = Math.max(level, height);
+        if(root == null){
+            return;
         }
-        int left = maxDepth(root.left);
-        int right = maxDepth(root.right);
-        return Math.max(left,right) + 1 ;
+        
+        if(root.left != null) {
+            helper(root.left, level+1);
+        }
+        
+        if(root.right != null) {
+            helper(root.right, level+1);
+        }
+        
     }
 }
