@@ -32,7 +32,6 @@ class Solution {
 
         while(!q.isEmpty()){
             int n = q.size();
-            int mmin = q.peek().num;
             int first = 0;
             int last = 0;
 
