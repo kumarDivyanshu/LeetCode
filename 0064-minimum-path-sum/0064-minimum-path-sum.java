@@ -1,38 +1,32 @@
 class Solution {
     public int minPathSum(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
-        Integer[][] dp = new Integer[m][n];  
-        return solve(0, 0, grid, dp);
+        int n = grid.length;
+        int m = grid[0].length;
+        int[][] dp = new int[n+1][m+1];
+        for(int[] row: dp){
+            Arrays.fill(row,-1);
+        }
+        int res = solve(0,0, n,m, grid , dp);
+        return res;
     }
 
-    int solve(int i, int j, int[][] grid, Integer[][] dp) {
-        int m = grid.length;
-        int n = grid[0].length;
-
-        // Base case: reached bottom-right cell
-        if (i == m - 1 && j == n - 1) {
-            return grid[i][j];
-        }
-
-        if (i >= m || j >= n) {
-            return Integer.MAX_VALUE;
-        }
-
-        if (dp[i][j] != null) {
+    int solve(int i, int j, int n , int m , int[][] grid, int[][] dp)
+    {
+        if(dp[i][j] != -1){
             return dp[i][j];
         }
-
-        int right = solve(i, j + 1, grid, dp);
-        int down = solve(i + 1, j, grid, dp);
-
-        int minPath = Math.min(right, down);
-
-        // If both paths are invalid, return MAX_VALUE
-        if (minPath == Integer.MAX_VALUE) {
-            return dp[i][j] = Integer.MAX_VALUE;
+        if(i==n-1 && j==m-1){
+            return grid[i][j];
+        }
+        if(i>=n || j>= m){
+            return 1000000;
         }
 
-        return dp[i][j] = grid[i][j] + minPath;
+        int right = grid[i][j] + solve(i , j+1 , n,m,grid,dp);
+
+        int down = grid[i][j] + solve(i+1 , j , n , m, grid, dp);
+
+        return dp[i][j]=Math.min(right, down);
+
     }
 }
