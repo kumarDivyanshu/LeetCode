@@ -39,7 +39,7 @@ class Solution {
             for(int i=0;i< n;i++){
                 Pair curr = q.poll();
                 TreeNode node = curr.node;
-                int num = curr.num - mmin;
+                int num = curr.num;
 
                 if(i==0){
                     first = num;
