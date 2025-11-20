@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kumarDivyanshu/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kumarDivyanshu/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/kumarDivyanshu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/kumarDivyanshu/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kumarDivyanshu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kumarDivyanshu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kumarDivyanshu/LeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumarDivyanshu/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kumarDivyanshu/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/kumarDivyanshu/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/kumarDivyanshu/LeetCode/tree/master/0412-fizz-buzz) |
 | [1448-maximum-69-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/1448-maximum-69-number) |
