@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/kumarDivyanshu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kumarDivyanshu/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kumarDivyanshu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/kumarDivyanshu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/kumarDivyanshu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/kumarDivyanshu/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
