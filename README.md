@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kumarDivyanshu/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0179-largest-number) |
+| [0283-move-zeroes](https://github.com/kumarDivyanshu/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/kumarDivyanshu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/kumarDivyanshu/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0494-target-sum) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kumarDivyanshu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kumarDivyanshu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/kumarDivyanshu/LeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumarDivyanshu/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kumarDivyanshu/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
