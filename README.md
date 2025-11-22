@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/kumarDivyanshu/LeetCode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/kumarDivyanshu/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/kumarDivyanshu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/kumarDivyanshu/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kumarDivyanshu/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/kumarDivyanshu/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kumarDivyanshu/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kumarDivyanshu/LeetCode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/kumarDivyanshu/LeetCode/tree/master/0854-making-a-large-island) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/kumarDivyanshu/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kumarDivyanshu/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kumarDivyanshu/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kumarDivyanshu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/kumarDivyanshu/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kumarDivyanshu/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kumarDivyanshu/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kumarDivyanshu/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kumarDivyanshu/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/kumarDivyanshu/LeetCode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/kumarDivyanshu/LeetCode/tree/master/0854-making-a-large-island) |
