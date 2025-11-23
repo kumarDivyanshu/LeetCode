@@ -7,8 +7,8 @@ class Solution {
         if (idx >= arr.length)
             return sum == target ? 1 : 0;
         
-        int subtract = helper(arr, target, idx + 1, sum - arr[idx]);
         int add = helper(arr, target, idx + 1, sum + arr[idx]);
+        int subtract = helper(arr, target, idx + 1, sum - arr[idx]);
 
         return subtract + add;
     }
