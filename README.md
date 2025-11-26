@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kumarDivyanshu/LeetCode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumarDivyanshu/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/kumarDivyanshu/LeetCode/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/kumarDivyanshu/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/kumarDivyanshu/LeetCode/tree/master/0854-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/kumarDivyanshu/LeetCode/tree/master/1036-rotting-oranges) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kumarDivyanshu/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kumarDivyanshu/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kumarDivyanshu/LeetCode/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/kumarDivyanshu/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/kumarDivyanshu/LeetCode/tree/master/0854-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/kumarDivyanshu/LeetCode/tree/master/1036-rotting-oranges) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kumarDivyanshu/LeetCode/tree/master/0290-word-pattern) |
 | [0567-permutation-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/kumarDivyanshu/LeetCode/tree/master/0721-accounts-merge) |
+| [0840-magic-squares-in-grid](https://github.com/kumarDivyanshu/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumarDivyanshu/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kumarDivyanshu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kumarDivyanshu/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/kumarDivyanshu/LeetCode/tree/master/0412-fizz-buzz) |
+| [0840-magic-squares-in-grid](https://github.com/kumarDivyanshu/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1448-maximum-69-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kumarDivyanshu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/2032-largest-odd-number-in-string) |
