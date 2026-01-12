@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/kumarDivyanshu/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kumarDivyanshu/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/kumarDivyanshu/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/kumarDivyanshu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumarDivyanshu/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kumarDivyanshu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/kumarDivyanshu/LeetCode/tree/master/0412-fizz-buzz) |
 | [0840-magic-squares-in-grid](https://github.com/kumarDivyanshu/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/kumarDivyanshu/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kumarDivyanshu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -573,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kumarDivyanshu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/kumarDivyanshu/LeetCode/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/kumarDivyanshu/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
