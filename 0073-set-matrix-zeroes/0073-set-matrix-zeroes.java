@@ -8,14 +8,14 @@ class Solution {
 
         for(int i=0;i<n;i++){
             if(matrix[i][0]==0){
-                firstRowZero = true;
+                firstColZero = true;
                 break;
             }
         }
 
         for(int j=0;j<m;j++){
             if(matrix[0][j]==0){
-                firstColZero = true;
+                firstRowZero = true;
                 break;
             }
         }
@@ -30,12 +30,13 @@ class Solution {
         }
         
         setRowZero(n,m,matrix);
-        if(firstRowZero){
+        
+        if(firstColZero){
             for(int i=0;i<n;i++){
                 matrix[i][0]=0;
             }
         }
-        if(firstColZero){
+        if(firstRowZero){
             for(int j=0;j<m;j++){
                 matrix[0][j]=0;
             }
