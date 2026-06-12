@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kumarDivyanshu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kumarDivyanshu/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kumarDivyanshu/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kumarDivyanshu/LeetCode/tree/master/0118-pascals-triangle) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kumarDivyanshu/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/kumarDivyanshu/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kumarDivyanshu/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kumarDivyanshu/LeetCode/tree/master/0179-largest-number) |
 | [0721-accounts-merge](https://github.com/kumarDivyanshu/LeetCode/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumarDivyanshu/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kumarDivyanshu/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/kumarDivyanshu/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kumarDivyanshu/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kumarDivyanshu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kumarDivyanshu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
