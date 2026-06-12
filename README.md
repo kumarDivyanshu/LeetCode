@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kumarDivyanshu/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kumarDivyanshu/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/kumarDivyanshu/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/kumarDivyanshu/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kumarDivyanshu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/kumarDivyanshu/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kumarDivyanshu/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/kumarDivyanshu/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kumarDivyanshu/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kumarDivyanshu/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/kumarDivyanshu/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kumarDivyanshu/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kumarDivyanshu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0189-rotate-array) |
