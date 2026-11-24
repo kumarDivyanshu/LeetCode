@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kumarDivyanshu/LeetCode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarDivyanshu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/kumarDivyanshu/LeetCode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/kumarDivyanshu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kumarDivyanshu/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0721-accounts-merge](https://github.com/kumarDivyanshu/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kumarDivyanshu/LeetCode/tree/master/0733-flood-fill) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kumarDivyanshu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/kumarDivyanshu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/kumarDivyanshu/LeetCode/tree/master/0290-word-pattern) |
+| [0560-subarray-sum-equals-k](https://github.com/kumarDivyanshu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kumarDivyanshu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/kumarDivyanshu/LeetCode/tree/master/0721-accounts-merge) |
 | [0840-magic-squares-in-grid](https://github.com/kumarDivyanshu/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kumarDivyanshu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kumarDivyanshu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Graph
 |  |
